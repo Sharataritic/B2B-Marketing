@@ -1,4 +1,4 @@
-# B2B-Marketing
+# B2B-Marketing Providers in 2018
 Business to Business also called B2B or B to B is a model that involves the exchange of products or services between two businesses. B2B marketing includes the techniques and best practices used by companies to sell their product and services to other businesses. However, B2B marketing is more than just one company doing business with other companies. 
 * [Aritic PinPoint](https://aritic.com) - It is a comprehensive Marketing Automation tool that assists you in building awareness and driving traffic with Anonymous Lead Engagement, Lead Forms, On-site Widgets and more. 
 * [HubSpot](http://hubspot.com/) - An Inbound Marketing Automation provider and sales software to fuel your growth and build deeper relationships with your customers. 
